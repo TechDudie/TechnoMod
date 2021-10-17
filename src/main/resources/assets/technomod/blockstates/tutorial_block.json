@@ -1,7 +1,7 @@
 {
     "variants": {
         "": [
-            { "model": "technodot:block/tutorial_block" }
+            { "model": "technomod:block/tutorial_block" }
         ]
     }
 }
