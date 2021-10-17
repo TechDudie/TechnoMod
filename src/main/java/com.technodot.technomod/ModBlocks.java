@@ -10,7 +10,7 @@ import net.minecraftforge.registries.ForgeRegistries;
 public class ModBlocks {
 
     //The BLOCKS deferred register in which you can register blocks.
-    public static final DeferredRegister<Block> BLOCKS = new DeferredRegister<>(ForgeRegistries.BLOCKS, TutorialMod.MOD_ID);
+    public static final DeferredRegister<Block> BLOCKS = new DeferredRegister<>(ForgeRegistries.BLOCKS, TechnoMod.MOD_ID);
 
     //Register the tutorial block with "tutorial_block" as registry name and default ROCK properties
     public static final RegistryObject<Block> TUTORIAL_BLOCK = BLOCKS.register("tutorial_block", () -> new Block(Block.Properties.create(Material.ROCK)));
