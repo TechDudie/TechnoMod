@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "stutorialmod:item/tutorial_dust"
+        "layer0": "technomod:item/tutorial_dust"
      }
 }
