@@ -1,4 +1,4 @@
-package com.suppergerrie2.stutorialmod;
+package com.technodot.technomod;
 
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
