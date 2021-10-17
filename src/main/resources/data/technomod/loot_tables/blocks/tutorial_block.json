@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "stutorialmod:tutorial_block"
+          "name": "technomod:tutorial_block"
         }
       ],
       "conditions": [
