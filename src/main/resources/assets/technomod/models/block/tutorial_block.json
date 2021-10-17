@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "stutorialmod:block/tutorial_block"
+        "all": "technomod:block/tutorial_block"
     }
 }
