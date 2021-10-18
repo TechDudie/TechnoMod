@@ -1,0 +1,5 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [{"item": "technomod:tutorial_block"}],
+    "result": {"item": "technomod:tutorial_dust", "count": 9}
+}
