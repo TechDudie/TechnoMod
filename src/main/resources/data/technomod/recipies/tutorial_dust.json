@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "xxx",
+        "xxx",
+        "xxx"
+    ],
+    "key": {
+        "x": {"item": "technomod:tutorial_dust"},
+    },
+    "result": {"item": "technomod:tutorial_block", "count": 1}
+}
