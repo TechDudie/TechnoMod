@@ -24,6 +24,6 @@ jobs:
     - name: Build with Gradle
       run: ./gradlew build
     - name: List files (debug)
-      run: ls && ls build
+      run: ls && echo && ls build && echo && ls build/libs
     - name: Run JAR (debug)
-      run: java -jar build/modid-1.0.jar || true
+      run: java -jar build/libs/modid-1.0.jar || true
